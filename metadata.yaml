@@ -1,0 +1,24 @@
+_repo: The-Golden-Book-of-Springfield_59860
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lindsay, Vachel
+    alias: Lindsay, Nicholas Vachel
+    birthdate: 1879
+    deathdate: 1931
+    gutenberg_agent_id: '234'
+    url: http://www.gutenberg.org/2009/agents/234
+    wikipedia: http://en.wikipedia.org/wiki/Vachel_Lindsay
+description: ''
+gutenberg_issued: '2019-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59860'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Golden Book of Springfield
+url: http://www.gutenberg.org/ebooks/59860
